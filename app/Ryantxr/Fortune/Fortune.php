@@ -21,7 +21,7 @@ class Fortune {
 
     ];
     public function fortune() {
-        $rand = mt_rand(0, count(self::Fortunes-1));
+        $rand = mt_rand(0, count(self::Fortunes)-1);
         return self::Fortunes[$rand];
     }
 
