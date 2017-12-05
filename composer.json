@@ -1,0 +1,17 @@
+
+{
+    "name": "ryantxr/fortune",
+    "license": "MIT",
+    "description": "A PHP wrapper for fortune",
+    "keywords": ["fortune"],
+    "homepage": "https://github.com/ryantxr/fortune",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ryantxr\\Fortune": "app"
+        }
+    }
+}
+
