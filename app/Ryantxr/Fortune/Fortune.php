@@ -15,9 +15,15 @@ class Fortune {
         "Courage doesn't always roar.",
         "Life is ten percent what happens to you and ninety percent how you respond to it.",
         "What good shall I do this day?",
-
-
-
+        "Come let us reason together.",
+        "When all else fails, read the instructions.",
+        "Absence abates a moderate passion but intensifies a great one just as the wind exinguishes a candle but fans fire into the flame.",
+        "Of all the things that I have lost, I miss my mind the most.",
+        "When nothing is going right, go left.",
+        "I'm not arguing. I'm just explaining why I am right.",
+        "Be strong, I whispered to my WiFi signal.",
+        "You never know what you have, until you clean your closet.",
+        "I eat cake because it's someone's birthday somewhere today.",
 
     ];
     public function fortune() {
