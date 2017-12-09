@@ -24,7 +24,17 @@ class Fortune {
         "Be strong, I whispered to my WiFi signal.",
         "You never know what you have, until you clean your closet.",
         "I eat cake because it's someone's birthday somewhere today.",
-
+        "There are 10 types of people in the world, those who understand binary and those who don't.",
+        "Always start with the user experience. -- Steve Jobs.",
+        "You will soon forget this.",
+        "Live in a world of your own, but always welcome visitors.",
+        "Never be led astray onto the path of virtue.",
+        "Are you sure the back door is locked?",
+        "Tomorrow, you can be anywhere.",
+        "Don't you feel more like you do now than you did when you came in?",
+        "Whenever you find that you are on the side of the majority, it is time to reform.-- Mark Twain",
+        "You don't become a failure until you're satisfied with being one.",
+        "You have the power to influence all with whom you come in contact.",
     ];
     public function fortune() {
         $rand = mt_rand(0, count(self::Fortunes)-1);
